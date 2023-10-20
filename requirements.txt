@@ -2,5 +2,5 @@ This is chat application...
 Emoji
 Type application
 
-Dark mode
-Video calls
+Dark mode1
+Video calls1
